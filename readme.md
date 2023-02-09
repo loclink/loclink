@@ -4,9 +4,9 @@
 
 
 
-I am a programmer from China. The front -end development is not only my job, but also part of my life.
+I am a programmer from China. The front-end development is not only my job, but also part of my life.
 
-**Loclink** is my net name. Its meaning is: **My every line of code, I keep a close link**.
+**Loclink** is my net name. Its meaning is: **My every line of code, I have maintained close link**.
 
 I like programming very much, and the birth of new technologies will make me very excited.
 
