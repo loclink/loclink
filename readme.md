@@ -25,17 +25,17 @@ Welcome to read my blog: [loclink blog](https://loclink.cn)
 ## Stats
 
 <p align="center">
-  <a href="https://github.com/loclink/loclink">
+  <a href="https://github.com/loclink">
     <img align="center" src="https://streak-stats.demolab.com?user=loclink&theme=dark" width="700px"/>
   <a/>
 </p>
 <p align="center">
-   <a href="https://github.com/loclink/loclink">
+   <a href="https://github.com/loclink">
     <img src="https://github-readme-stats.vercel.app/api?username=loclink&theme=dark&show_icons=true" width="700px" />
   <a/>
 </p>
   <p align="center">
-    <a href="https://github.com/loclink/loclink">
+    <a href="https://github.com/loclink">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loclink&theme=dark" width="700px"  />
   <a/>
 </p>
