@@ -19,7 +19,6 @@ Welcome to read my blog: [loclink blog](https://loclink.cn)
 ## Projects
 <p align="center">
   <a href="https://github.com/oh-my-live2d/oh-my-live2d"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oh-my-live2d&repo=oh-my-live2d&theme=dark" height="140px"/><a/>
-    <a href="https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oh-my-live2d&repo=vuepress-plugin-oh-my-live2d&theme=dark" height="140px"/><a/>
 <p/>
 
 ## Stats
